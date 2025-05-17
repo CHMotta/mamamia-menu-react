@@ -1,0 +1,17 @@
+.imgLogo{
+    height: 900px;
+}
+
+.mainPag{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+}
+
+.h4{
+    font-size: 20px;
+    font-style: italic;
+    color: #ff0000;
+}

@@ -7,9 +7,11 @@
 
 a{
     cursor: pointer;
+    list-style-type: none;
+    color: white;
 }
 
 a:hover{
     color: rgb(225, 225, 78);
-    font-size: 31px;
+    font-weight: bold;
 }
